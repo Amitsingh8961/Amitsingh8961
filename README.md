@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amitsingh8961
+- 👋 Hi, I’m Amit Kumar singh
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently a cyber security student
 - 💞️ I’m looking to collaborate on ...
