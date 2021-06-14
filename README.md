@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Kumar singh
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently a cyber security student
+- 🌱 I’m currently a student of B.tech CSE with specialization in cyber security 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amitsinghrajput2182@gmail.com
 <!---
